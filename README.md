@@ -24,11 +24,13 @@ A desktop jigsaw puzzle game built with **SFML 2.5** and **Cairo**, featuring an
 
 The game progresses through 5 screens:
 
-1. **Intro** - Animated flying pieces with fade-in title
-2. **Name & Difficulty** - Enter your name and select difficulty
-3. **Gameplay** - Drag and drop pieces to assemble the image
-4. **Win Screen** - Celebration with flying pieces, time, and moves
-5. **High Scores** - Leaderboard with difficulty tabs
+| Intro | Name & Difficulty | Gameplay |
+|:---:|:---:|:---:|
+| ![Intro](screenshots/intro.png) | ![Name Screen](screenshots/name_screen.png) | ![Gameplay](screenshots/gameplay.png) |
+
+| Win Screen | High Scores |
+|:---:|:---:|
+| ![Endgame](screenshots/endgame.png) | ![High Scores](screenshots/highscores.png) |
 
 ## Dependencies
 
