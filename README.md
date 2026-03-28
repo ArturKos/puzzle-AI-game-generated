@@ -20,6 +20,12 @@ A desktop jigsaw puzzle game built with **SFML 2.5** and **Cairo**, featuring an
 - **Hidden adult image mode** via cheat code (see below)
 - **Sidebar UI** with preview thumbnail, timer, move counter, and piece tracker
 
+## Demo Video
+
+[**Watch on YouTube**](https://youtu.be/t4rRS58Bd6s)
+
+[![Jigsaw Puzzle Game](https://img.youtube.com/vi/t4rRS58Bd6s/maxresdefault.jpg)](https://youtu.be/t4rRS58Bd6s)
+
 ## Screenshots
 
 The game progresses through 5 screens:
